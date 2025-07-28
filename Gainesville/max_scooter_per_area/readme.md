@@ -1,0 +1,1 @@
+max_scooter_per_area
